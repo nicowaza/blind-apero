@@ -5,11 +5,12 @@
 
 
 ## Descritpion : 
-	**page de création d'un évenement apéro avec les différentes options présentées sous formes d'icone et de box cliquables
+	Page de création d'un évenement apéro avec les différentes options présentées sous formes d'icones et de box cliquables
+	
 	
 	
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDMyMjA4NSwtNzIwNTY1NzU0XX0=
+eyJoaXN0b3J5IjpbOTMyNTgwODgsLTcyMDU2NTc1NF19
 -->
