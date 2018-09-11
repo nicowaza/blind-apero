@@ -1,7 +1,7 @@
 # blind-apero
 
  
-## [trello](https://github.com/nicowaza/blind-apero)
+## [trello](https://trello.com/b/Jqzo0qoJ/ap%C3%A9ro-app)
 
 
 ## Descritpion : 
@@ -12,5 +12,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyNTgwODgsLTcyMDU2NTc1NF19
+eyJoaXN0b3J5IjpbMzg3MjM3MDQxLDkzMjU4MDg4LC03MjA1Nj
+U3NTRdfQ==
 -->
