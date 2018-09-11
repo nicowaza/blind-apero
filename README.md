@@ -1,12 +1,13 @@
 # blind-apero
 
  
-[trello](https://github.com/nicowaza/blind-apero)
+## [trello](https://github.com/nicowaza/blind-apero)
 
 
-D
+## Descritpion : 
+	
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTAwNDM4NywtNzIwNTY1NzU0XX0=
+eyJoaXN0b3J5IjpbMTA2NDIxODY5NywtNzIwNTY1NzU0XX0=
 -->
